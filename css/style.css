@@ -1,0 +1,70 @@
+.bee {
+    max-width: 550px ;
+}
+
+table {
+    width: 550px ;
+}
+
+th {
+    border: 1px solid;
+    background-color: rgb(199, 194, 194);
+}
+
+td {
+    border: 1px solid;
+    text-align: center;
+}
+
+.text {
+    font-weight: bold;
+}
+
+.bee2 {
+    max-width: 250px ;
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.honey {
+    display: flex;
+}
+
+header {
+    background-color: #ffc000;
+    padding-top: 5px;
+    max-width: 850px ;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    text-align: center;
+}
+
+li {
+    padding-right: 20px;
+    padding-bottom: 20px ;
+}
+
+footer {
+    background-color: #ffc000 ;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+a:hover {
+    text-decoration:underline;
+}
+
+img {
+    max-width: 550px;
+}
